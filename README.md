@@ -1,2 +1,2 @@
-# hello-world
-just a test
+Hi ! everyone ! 
+this is my first c# class
